@@ -3,7 +3,7 @@
 > Soroban smart contracts for the MicroPay API payments platform.
 
 This project is funded and governed by the Stellar Treasury system:
-**https://github.com/YOUR-USERNAME/stellar-treasury**
+**https://github.com/Chibey-max/stellar-treasury**
 
 ---
 
@@ -94,7 +94,7 @@ micropay-contracts/
 
 | Repo | Purpose |
 |---|---|
-| [micropay-backend](https://github.com/YOUR-USERNAME/micropay-backend) | Node.js API gateway |
-| [micropay-frontend](https://github.com/YOUR-USERNAME/micropay-frontend) | Developer dashboard |
-| [micropay-docs](https://github.com/YOUR-USERNAME/micropay-docs) | Full documentation |
-| [stellar-treasury](https://github.com/YOUR-USERNAME/stellar-treasury) | Governing DAO |
+| [micropay-backend](https://github.com/Chibey-max/micropay-backend) | Node.js API gateway |
+| [micropay-frontend](https://github.com/Chibey-max/micropay-frontend) | Developer dashboard |
+| [micropay-docs](https://github.com/Chibey-max/micropay-docs) | Full documentation |
+| [stellar-treasury](https://github.com/Chibey-max/stellar-treasury) | Governing DAO |
