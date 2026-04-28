@@ -3,7 +3,7 @@
 Soroban smart contracts for pay-per-use API billing with treasury-aware funding sources.
 
 This project is funded and governed by the Stellar Treasury system:
-https://github.com/YOUR-USERNAME/stellar-treasury
+https://github.com/Chibex-max/stellar-treasury
 
 ## Contract Responsibilities
 
