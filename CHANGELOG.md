@@ -19,3 +19,4 @@
 - Milestone 15: incremental delivery checkpoint for micropay-contracts
 - Milestone 16: incremental delivery checkpoint for micropay-contracts
 - Milestone 17: incremental delivery checkpoint for micropay-contracts
+- Milestone 18: incremental delivery checkpoint for micropay-contracts
