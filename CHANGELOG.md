@@ -7,3 +7,4 @@
 - Milestone 03: incremental delivery checkpoint for micropay-contracts
 - Milestone 04: incremental delivery checkpoint for micropay-contracts
 - Milestone 05: incremental delivery checkpoint for micropay-contracts
+- Milestone 06: incremental delivery checkpoint for micropay-contracts
