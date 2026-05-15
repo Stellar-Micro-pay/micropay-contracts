@@ -29,3 +29,4 @@
 - Milestone 25: incremental delivery checkpoint for micropay-contracts
 - Milestone 26: incremental delivery checkpoint for micropay-contracts
 - Milestone 27: incremental delivery checkpoint for micropay-contracts
+- Milestone 28: incremental delivery checkpoint for micropay-contracts
