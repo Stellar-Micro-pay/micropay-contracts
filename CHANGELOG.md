@@ -27,3 +27,4 @@
 - Milestone 23: incremental delivery checkpoint for micropay-contracts
 - Milestone 24: incremental delivery checkpoint for micropay-contracts
 - Milestone 25: incremental delivery checkpoint for micropay-contracts
+- Milestone 26: incremental delivery checkpoint for micropay-contracts
